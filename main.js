@@ -26,6 +26,7 @@ const closeNav = () => {
  
 closeBtn.addEventListener('click', closeNav);
 
+
 // swipper image
 var swiper = new Swiper(".mySwiper", {
     slidePerView: 3,
